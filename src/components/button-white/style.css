@@ -1,0 +1,17 @@
+.button-white {
+    color: #000000;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    height: 30px;
+    width: 300px;
+    border: none;
+    border-radius: 25px;
+    padding: 0;
+    margin: 20px 20px;
+}
+
+.button-white:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+
+}

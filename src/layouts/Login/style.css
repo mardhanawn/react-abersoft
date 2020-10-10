@@ -1,0 +1,36 @@
+.container-franchise {
+    background: linear-gradient(180.02deg, #3549FB 0.02%, #4ED2DA 74.93%);
+    padding-top: 22rem;
+}
+
+.container-white {
+    background: #FFFFFF;
+    border-radius: 25px 25px 0 0;
+    /* padding-bottom: 3rem; */
+}
+
+.title {
+    margin: 50px 430px;
+    font-size: 23px;
+    font-weight: 900;
+}
+
+@media only screen and (max-width: 767px) {
+    .container-franchise {
+        background: linear-gradient(180.02deg, #3549FB 0.02%, #4ED2DA 74.93%);
+        padding-top: 25rem;
+    }
+
+    .container-white {
+        background: #FFFFFF;
+        border-radius: 25px 25px 0 0;
+        padding-bottom: 5rem;
+    }
+
+    .title {
+        margin: 50px auto auto 50px;
+        font-size: 23px;
+        font-weight: 900;
+    }
+    
+}

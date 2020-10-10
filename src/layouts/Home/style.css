@@ -1,0 +1,13 @@
+.container-home {
+    background: linear-gradient(180.02deg, #3549FB 0.02%, #4ED2DA 74.93%);
+    padding-top: 25rem;
+    padding-bottom: 13rem;
+}
+
+@media only screen and (max-width: 767px) {
+    .container-home {
+        background: linear-gradient(180.02deg, #3549FB 0.02%, #4ED2DA 74.93%);
+        padding-top: 35rem;
+        padding-bottom: 4rem;
+    }
+}

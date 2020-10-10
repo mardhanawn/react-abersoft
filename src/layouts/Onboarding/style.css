@@ -1,0 +1,15 @@
+.container-onboarding {
+    background: #FFFFFF;
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
+
+.title-onboarding {
+    font-size: 23px;
+    font-weight: 900;
+}
+
+.content-onboarding {
+    font-size: 14px;
+    margin: auto 10px;
+}
